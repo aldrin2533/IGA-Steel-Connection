@@ -1,0 +1,401 @@
+# depslib dependency file v1.0
+1620199532 source:c:\users\ajt\desktop\iga\isogeometric analysis model 1 with 27 elements\global_operators.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	"functions.h"
+
+1621239143 c:\users\ajt\desktop\iga\isogeometric analysis model 1 with 27 elements\functions.h
+	<vector>
+	<string>
+
+1621501228 source:c:\users\ajt\desktop\iga\isogeometric analysis model 1 with 27 elements\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<iterator>
+	<cstdio>
+	"data.h"
+	"functions.h"
+
+1621235148 c:\users\ajt\desktop\iga\isogeometric analysis model 1 with 27 elements\data.h
+	<vector>
+	<string>
+
+1621235928 source:c:\users\ajt\desktop\iga\isogeometric analysis model 1 with 27 elements\nurbs_model.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	"functions.h"
+
+1619267020 source:c:\users\ajt\desktop\iga\isogeometric analysis model 1 with 27 elements\pcgm.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	<iomanip>
+	"functions.h"
+
+1621411250 source:c:\users\ajt\desktop\iga\isogeometric analysis model 1 with 27 elements\postprocessing.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	<iomanip>
+	"functions.h"
+
+1618134706 source:c:\users\ajt\desktop\iga\isogeometric analysis model 1 with 27 elements\read_txt_file.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	"functions.h"
+
+1622022067 source:c:\users\ajt\desktop\iga\model 2\model 2 c++\global_operators.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	"functions.h"
+
+1622022236 c:\users\ajt\desktop\iga\model 2\model 2 c++\functions.h
+	<vector>
+	<string>
+
+1622078283 source:c:\users\ajt\desktop\iga\model 2\model 2 c++\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<iterator>
+	<cstdio>
+	"data.h"
+	"functions.h"
+
+1622022090 c:\users\ajt\desktop\iga\model 2\model 2 c++\data.h
+	<vector>
+	<string>
+
+1622081424 source:c:\users\ajt\desktop\iga\model 2\model 2 c++\nurbs_model.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	"functions.h"
+
+1619267020 source:c:\users\ajt\desktop\iga\model 2\model 2 c++\pcgm.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	<iomanip>
+	"functions.h"
+
+1621411250 source:c:\users\ajt\desktop\iga\model 2\model 2 c++\postprocessing.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	<iomanip>
+	"functions.h"
+
+1618134706 source:c:\users\ajt\desktop\iga\model 2\model 2 c++\read_txt_file.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	"functions.h"
+
+1622022067 source:c:\users\ajt\desktop\iga\model 2\model 2 c++ force vector\global_operators.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	"functions.h"
+
+1622096422 c:\users\ajt\desktop\iga\model 2\model 2 c++ force vector\functions.h
+	<vector>
+	<string>
+
+1622169319 source:c:\users\ajt\desktop\iga\model 2\model 2 c++ force vector\nurbs_model.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	"functions.h"
+
+1619267020 source:c:\users\ajt\desktop\iga\model 2\model 2 c++ force vector\pcgm.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	<iomanip>
+	"functions.h"
+
+1621411250 source:c:\users\ajt\desktop\iga\model 2\model 2 c++ force vector\postprocessing.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	<iomanip>
+	"functions.h"
+
+1618134706 source:c:\users\ajt\desktop\iga\model 2\model 2 c++ force vector\read_txt_file.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	"functions.h"
+
+1622169773 source:c:\users\ajt\desktop\iga\model 2\model 2 c++ force vector\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<iterator>
+	<cstdio>
+	"data.h"
+	"functions.h"
+
+1622095134 c:\users\ajt\desktop\iga\model 2\model 2 c++ force vector\data.h
+	<vector>
+	<string>
+
+1622022068 source:c:\users\ajt\desktop\iga\model 2 multiple patches\model 2 multiple patches c++ force vector\global_operators.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	"functions.h"
+
+1622096424 c:\users\ajt\desktop\iga\model 2 multiple patches\model 2 multiple patches c++ force vector\functions.h
+	<vector>
+	<string>
+
+1622169320 source:c:\users\ajt\desktop\iga\model 2 multiple patches\model 2 multiple patches c++ force vector\nurbs_model.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	"functions.h"
+
+1619267020 source:c:\users\ajt\desktop\iga\model 2 multiple patches\model 2 multiple patches c++ force vector\pcgm.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	<iomanip>
+	"functions.h"
+
+1621411252 source:c:\users\ajt\desktop\iga\model 2 multiple patches\model 2 multiple patches c++ force vector\postprocessing.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	<iomanip>
+	"functions.h"
+
+1618134706 source:c:\users\ajt\desktop\iga\model 2 multiple patches\model 2 multiple patches c++ force vector\read_txt_file.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	"functions.h"
+
+1622022068 source:g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\plate with central hole\patch = 2, elements = 40\raw-d ratio = 0.25\force vector\global_operators.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	"functions.h"
+
+1622096424 g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\plate with central hole\patch = 2, elements = 40\raw-d ratio = 0.25\force vector\functions.h
+	<vector>
+	<string>
+
+1623234431 source:g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\plate with central hole\patch = 2, elements = 40\raw-d ratio = 0.25\force vector\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<iterator>
+	<cstdio>
+	"data.h"
+	"functions.h"
+
+1622095136 g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\plate with central hole\patch = 2, elements = 40\raw-d ratio = 0.25\force vector\data.h
+	<vector>
+	<string>
+
+1622169320 source:g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\plate with central hole\patch = 2, elements = 40\raw-d ratio = 0.25\force vector\nurbs_model.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	"functions.h"
+
+1619267020 source:g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\plate with central hole\patch = 2, elements = 40\raw-d ratio = 0.25\force vector\pcgm.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	<iomanip>
+	"functions.h"
+
+1621411252 source:g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\plate with central hole\patch = 2, elements = 40\raw-d ratio = 0.25\force vector\postprocessing.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	<iomanip>
+	"functions.h"
+
+1618134706 source:g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\plate with central hole\patch = 2, elements = 40\raw-d ratio = 0.25\force vector\read_txt_file.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	"functions.h"
+
+1622022068 source:g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\m1_plate with central hole\m1_p2e40o222_1\1_raw-d ratio = 0.25\m1_p2e120o222_1_force vector\global_operators.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	"functions.h"
+
+1622096424 g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\m1_plate with central hole\m1_p2e40o222_1\1_raw-d ratio = 0.25\m1_p2e120o222_1_force vector\functions.h
+	<vector>
+	<string>
+
+1622169320 source:g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\m1_plate with central hole\m1_p2e40o222_1\1_raw-d ratio = 0.25\m1_p2e120o222_1_force vector\nurbs_model.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	"functions.h"
+
+1619267020 source:g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\m1_plate with central hole\m1_p2e40o222_1\1_raw-d ratio = 0.25\m1_p2e120o222_1_force vector\pcgm.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	<iomanip>
+	"functions.h"
+
+1621411252 source:g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\m1_plate with central hole\m1_p2e40o222_1\1_raw-d ratio = 0.25\m1_p2e120o222_1_force vector\postprocessing.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	<iomanip>
+	"functions.h"
+
+1618134706 source:g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\m1_plate with central hole\m1_p2e40o222_1\1_raw-d ratio = 0.25\m1_p2e120o222_1_force vector\read_txt_file.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	"functions.h"
+
+1624273836 source:g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\m1_plate with central hole\m1_p2e40o222_1\1_raw-d ratio = 0.25\m1_p2e120o222_1_force vector\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<iterator>
+	<cstdio>
+	"data.h"
+	"functions.h"
+
+1622095136 g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\m1_plate with central hole\m1_p2e40o222_1\1_raw-d ratio = 0.25\m1_p2e120o222_1_force vector\data.h
+	<vector>
+	<string>
+
+1622022068 source:g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\m1_plate with central hole\m1_p2e100o222\1_raw-d ratio = 0.25\m1_p2e90o221_1_force vector\global_operators.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	"functions.h"
+
+1622096424 g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\m1_plate with central hole\m1_p2e100o222\1_raw-d ratio = 0.25\m1_p2e90o221_1_force vector\functions.h
+	<vector>
+	<string>
+
+1622169320 source:g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\m1_plate with central hole\m1_p2e100o222\1_raw-d ratio = 0.25\m1_p2e90o221_1_force vector\nurbs_model.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	"functions.h"
+
+1619267020 source:g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\m1_plate with central hole\m1_p2e100o222\1_raw-d ratio = 0.25\m1_p2e90o221_1_force vector\pcgm.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	<iomanip>
+	"functions.h"
+
+1621411252 source:g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\m1_plate with central hole\m1_p2e100o222\1_raw-d ratio = 0.25\m1_p2e90o221_1_force vector\postprocessing.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	<iomanip>
+	"functions.h"
+
+1618134706 source:g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\m1_plate with central hole\m1_p2e100o222\1_raw-d ratio = 0.25\m1_p2e90o221_1_force vector\read_txt_file.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	"functions.h"
+

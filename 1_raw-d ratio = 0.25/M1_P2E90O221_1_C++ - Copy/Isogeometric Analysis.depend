@@ -1,0 +1,529 @@
+# depslib dependency file v1.0
+1623304579 source:c:\users\ajt\desktop\iga\model 2 multiple patches\model 2 multiple patches c++\global_operators.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	"functions.h"
+
+1623720752 c:\users\ajt\desktop\iga\model 2 multiple patches\model 2 multiple patches c++\functions.h
+	<vector>
+	<string>
+
+1622940444 source:c:\users\ajt\desktop\iga\model 2 multiple patches\model 2 multiple patches c++\nurbs_model.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	"functions.h"
+
+1623719852 source:c:\users\ajt\desktop\iga\model 2 multiple patches\model 2 multiple patches c++\pcgm.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	<iomanip>
+	"functions.h"
+
+1622184278 source:c:\users\ajt\desktop\iga\model 2 multiple patches\model 2 multiple patches c++\postprocessing.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	<iomanip>
+	"functions.h"
+
+1622791654 source:c:\users\ajt\desktop\iga\model 2 multiple patches\model 2 multiple patches c++\read_txt_file.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	"functions.h"
+
+1623736524 source:c:\users\ajt\desktop\iga\model 2 multiple patches\model 2 multiple patches c++\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<iterator>
+	<cstdio>
+	"data.h"
+	"functions.h"
+
+1623312606 c:\users\ajt\desktop\iga\model 2 multiple patches\model 2 multiple patches c++\data.h
+	<vector>
+	<string>
+
+1623658671 source:c:\users\ajt\desktop\iga\model 2 multiple patches\model 2 multiple patches c++\gauss-seidel.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	<iomanip>
+	"functions.h"
+
+1623723496 source:c:\users\ajt\desktop\iga\model 2 multiple patches\model 2 multiple patches c++\gauss jordan elimination.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	<iomanip>
+	"functions.h"
+
+1623723496 source:g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\plate with central hole\patch = 2, elements = 40\raw-d ratio = 0.25\c++\gauss jordan elimination.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	<iomanip>
+	"functions.h"
+
+1623720752 g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\plate with central hole\patch = 2, elements = 40\raw-d ratio = 0.25\c++\functions.h
+	<vector>
+	<string>
+
+1623658671 source:g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\plate with central hole\patch = 2, elements = 40\raw-d ratio = 0.25\c++\gauss-seidel.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	<iomanip>
+	"functions.h"
+
+1623304579 source:g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\plate with central hole\patch = 2, elements = 40\raw-d ratio = 0.25\c++\global_operators.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	"functions.h"
+
+1622940444 source:g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\plate with central hole\patch = 2, elements = 40\raw-d ratio = 0.25\c++\nurbs_model.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	"functions.h"
+
+1623719852 source:g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\plate with central hole\patch = 2, elements = 40\raw-d ratio = 0.25\c++\pcgm.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	<iomanip>
+	"functions.h"
+
+1622184278 source:g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\plate with central hole\patch = 2, elements = 40\raw-d ratio = 0.25\c++\postprocessing.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	<iomanip>
+	"functions.h"
+
+1622791654 source:g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\plate with central hole\patch = 2, elements = 40\raw-d ratio = 0.25\c++\read_txt_file.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	"functions.h"
+
+1623841393 source:g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\plate with central hole\patch = 2, elements = 40\raw-d ratio = 0.25\c++\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<iterator>
+	<cstdio>
+	"data.h"
+	"functions.h"
+
+1623312606 g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\plate with central hole\patch = 2, elements = 40\raw-d ratio = 0.25\c++\data.h
+	<vector>
+	<string>
+
+1623723496 source:g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\m1_plate with central hole\m1_p2e40o222\1_raw-d ratio = 0.25\m1_p2e40o222_1_c++\gauss jordan elimination.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	<iomanip>
+	"functions.h"
+
+1624253977 g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\m1_plate with central hole\m1_p2e40o222\1_raw-d ratio = 0.25\m1_p2e40o222_1_c++\functions.h
+	<vector>
+	<string>
+
+1623658671 source:g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\m1_plate with central hole\m1_p2e40o222\1_raw-d ratio = 0.25\m1_p2e40o222_1_c++\gauss-seidel.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	<iomanip>
+	"functions.h"
+
+1623304579 source:g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\m1_plate with central hole\m1_p2e40o222\1_raw-d ratio = 0.25\m1_p2e40o222_1_c++\global_operators.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	"functions.h"
+
+1624257307 source:g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\m1_plate with central hole\m1_p2e40o222\1_raw-d ratio = 0.25\m1_p2e40o222_1_c++\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<iterator>
+	<cstdio>
+	"data.h"
+	"functions.h"
+
+1623312606 g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\m1_plate with central hole\m1_p2e40o222\1_raw-d ratio = 0.25\m1_p2e40o222_1_c++\data.h
+	<vector>
+	<string>
+
+1623903752 source:g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\m1_plate with central hole\m1_p2e40o222\1_raw-d ratio = 0.25\m1_p2e40o222_1_c++\nurbs_model.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	"functions.h"
+
+1624257732 source:g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\m1_plate with central hole\m1_p2e40o222\1_raw-d ratio = 0.25\m1_p2e40o222_1_c++\pcgm.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	<iomanip>
+	"functions.h"
+
+1624254325 source:g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\m1_plate with central hole\m1_p2e40o222\1_raw-d ratio = 0.25\m1_p2e40o222_1_c++\postprocessing.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	<iomanip>
+	"functions.h"
+
+1622791654 source:g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\m1_plate with central hole\m1_p2e40o222\1_raw-d ratio = 0.25\m1_p2e40o222_1_c++\read_txt_file.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	"functions.h"
+
+1624254604 source:g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\m1_plate with central hole\m1_p2e40o222\1_raw-d ratio = 0.25\m1_p2e40o222_1_c++\create_report.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<iterator>
+	<cstdio>
+	"functions.h"
+
+1624254604 source:g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\m1_plate with central hole\m1_p2e120o222\1_raw-d ratio = 0.25\m1_p2e120o222_1_c++\create_report.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<iterator>
+	<cstdio>
+	"functions.h"
+
+1624253977 g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\m1_plate with central hole\m1_p2e120o222\1_raw-d ratio = 0.25\m1_p2e120o222_1_c++\functions.h
+	<vector>
+	<string>
+
+1623723496 source:g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\m1_plate with central hole\m1_p2e120o222\1_raw-d ratio = 0.25\m1_p2e120o222_1_c++\gauss jordan elimination.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	<iomanip>
+	"functions.h"
+
+1623658671 source:g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\m1_plate with central hole\m1_p2e120o222\1_raw-d ratio = 0.25\m1_p2e120o222_1_c++\gauss-seidel.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	<iomanip>
+	"functions.h"
+
+1624339191 source:g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\m1_plate with central hole\m1_p2e120o222\1_raw-d ratio = 0.25\m1_p2e120o222_1_c++\global_operators.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	"functions.h"
+
+1623903752 source:g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\m1_plate with central hole\m1_p2e120o222\1_raw-d ratio = 0.25\m1_p2e120o222_1_c++\nurbs_model.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	"functions.h"
+
+1624330505 source:g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\m1_plate with central hole\m1_p2e120o222\1_raw-d ratio = 0.25\m1_p2e120o222_1_c++\pcgm.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	<iomanip>
+	"functions.h"
+
+1624254325 source:g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\m1_plate with central hole\m1_p2e120o222\1_raw-d ratio = 0.25\m1_p2e120o222_1_c++\postprocessing.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	<iomanip>
+	"functions.h"
+
+1622791654 source:g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\m1_plate with central hole\m1_p2e120o222\1_raw-d ratio = 0.25\m1_p2e120o222_1_c++\read_txt_file.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	"functions.h"
+
+1624340034 source:g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\m1_plate with central hole\m1_p2e120o222\1_raw-d ratio = 0.25\m1_p2e120o222_1_c++\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<iterator>
+	<cstdio>
+	"data.h"
+	"functions.h"
+
+1623312606 g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\m1_plate with central hole\m1_p2e120o222\1_raw-d ratio = 0.25\m1_p2e120o222_1_c++\data.h
+	<vector>
+	<string>
+
+1624254604 source:c:\users\ajt\desktop\m1_p2e120o222_1_c++\create_report.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<iterator>
+	<cstdio>
+	"functions.h"
+
+1624253977 c:\users\ajt\desktop\m1_p2e120o222_1_c++\functions.h
+	<vector>
+	<string>
+
+1623723496 source:c:\users\ajt\desktop\m1_p2e120o222_1_c++\gauss jordan elimination.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	<iomanip>
+	"functions.h"
+
+1623658671 source:c:\users\ajt\desktop\m1_p2e120o222_1_c++\gauss-seidel.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	<iomanip>
+	"functions.h"
+
+1624341756 source:c:\users\ajt\desktop\m1_p2e120o222_1_c++\global_operators.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	"functions.h"
+
+1624340034 source:c:\users\ajt\desktop\m1_p2e120o222_1_c++\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<iterator>
+	<cstdio>
+	"data.h"
+	"functions.h"
+
+1623312606 c:\users\ajt\desktop\m1_p2e120o222_1_c++\data.h
+	<vector>
+	<string>
+
+1623903752 source:c:\users\ajt\desktop\m1_p2e120o222_1_c++\nurbs_model.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	"functions.h"
+
+1624330505 source:c:\users\ajt\desktop\m1_p2e120o222_1_c++\pcgm.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	<iomanip>
+	"functions.h"
+
+1624254325 source:c:\users\ajt\desktop\m1_p2e120o222_1_c++\postprocessing.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	<iomanip>
+	"functions.h"
+
+1622791654 source:c:\users\ajt\desktop\m1_p2e120o222_1_c++\read_txt_file.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	"functions.h"
+
+1624254604 source:g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\m1_plate with central hole\m1_p2e100o222\1_raw-d ratio = 0.25\m1_p2e90o221_1_c++\create_report.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<iterator>
+	<cstdio>
+	"functions.h"
+
+1624348365 g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\m1_plate with central hole\m1_p2e100o222\1_raw-d ratio = 0.25\m1_p2e90o221_1_c++\functions.h
+	<vector>
+	<string>
+
+1623723496 source:g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\m1_plate with central hole\m1_p2e100o222\1_raw-d ratio = 0.25\m1_p2e90o221_1_c++\gauss jordan elimination.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	<iomanip>
+	"functions.h"
+
+1623658671 source:g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\m1_plate with central hole\m1_p2e100o222\1_raw-d ratio = 0.25\m1_p2e90o221_1_c++\gauss-seidel.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	<iomanip>
+	"functions.h"
+
+1623903752 source:g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\m1_plate with central hole\m1_p2e100o222\1_raw-d ratio = 0.25\m1_p2e90o221_1_c++\nurbs_model.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	"functions.h"
+
+1624330505 source:g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\m1_plate with central hole\m1_p2e100o222\1_raw-d ratio = 0.25\m1_p2e90o221_1_c++\pcgm.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	<iomanip>
+	"functions.h"
+
+1624254325 source:g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\m1_plate with central hole\m1_p2e100o222\1_raw-d ratio = 0.25\m1_p2e90o221_1_c++\postprocessing.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	<iomanip>
+	"functions.h"
+
+1622791654 source:g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\m1_plate with central hole\m1_p2e100o222\1_raw-d ratio = 0.25\m1_p2e90o221_1_c++\read_txt_file.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	"functions.h"
+
+1624348288 source:g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\m1_plate with central hole\m1_p2e100o222\1_raw-d ratio = 0.25\m1_p2e90o221_1_c++\global_operators.cpp
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	"functions.h"
+
+1624348300 source:g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\m1_plate with central hole\m1_p2e100o222\1_raw-d ratio = 0.25\m1_p2e90o221_1_c++\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<iterator>
+	<cstdio>
+	"data.h"
+	"functions.h"
+
+1623312606 g:\ajo files\1. academics\7 ce 300 thesis\chapter 4 verification of iga\m1_plate with central hole\m1_p2e100o222\1_raw-d ratio = 0.25\m1_p2e90o221_1_c++\data.h
+	<vector>
+	<string>
+

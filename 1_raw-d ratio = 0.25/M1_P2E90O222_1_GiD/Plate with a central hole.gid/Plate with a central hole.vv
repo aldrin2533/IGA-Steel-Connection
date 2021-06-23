@@ -1,0 +1,33 @@
+BeginZE G:/Ajo Files/1. Academics/7 CE 300 Thesis/Chapter 4 Verification of IGA/M1_Plate with Central Hole/M1_P2E100O222/1_raw-d ratio = 0.25/M1_P2E100O222_1_GiD/Plate with a central hole.gid/Plate with a central hole.vv
+   x -349.911895751953125 303.072357177734375
+   y 137.2540283203125 -160.979019165039063
+   z -306.04876708984375 306.04876708984375
+   e 90.810394287109375
+   v 0 0 0
+   r 1
+   m 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1
+   c 70.423736572265625 54.576263427734375 0
+   pd 0
+   pno 0
+   pfo 0
+   pf 4
+   pv 0
+   NowUse 0
+   DrawingType 0
+   LightVector 90 90 150 0
+   OGLShadow(UseShadows) 0
+   OGLShadow(RenderMode) RenderNice
+   OGLShadow(ShadowBias) -0.002
+   OGLShadow(AmbientShadows) 1
+   OGLShadow(UseFBO) 1
+   OGLShadow(FBOSize) 2048
+   OGLShadow(DimmedLightFactor) 0.02
+   OGLStereo(UseStereo) 0
+   OGLStereo(RelativeEyeDistance) 1
+   OGLStereo(FlipEyes) 0
+   OGLStereo(StereoMode) AnaglyphColors
+   OGLStereo(EyeDistance) 0.075
+   OGLStereo(LeftEyeDistance) 1 0 0 1
+   OGLStereo(RightEyeDistance) 0 1 1 1
+EndZE G:/Ajo Files/1. Academics/7 CE 300 Thesis/Chapter 4 Verification of IGA/M1_Plate with Central Hole/M1_P2E100O222/1_raw-d ratio = 0.25/M1_P2E100O222_1_GiD/Plate with a central hole.gid/Plate with a central hole.vv
+
